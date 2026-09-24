@@ -80,4 +80,3 @@ This repository is a collection of course exercises rather than a single product
 
 Many datasets are small educational datasets. Reported metrics should therefore be interpreted as exercise results rather than evidence of real-world predictive performance.
 
-```
